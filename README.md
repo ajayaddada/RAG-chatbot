@@ -27,8 +27,6 @@ The app will launch at `http://localhost:8501/`.
 2. Enter your question in the chat box.
 3. Receive instant, AI-powered answers enhanced by document retrieval.
 
-## License
-MIT License
 
 ---
 **Created by Ajay Addada (2025) — Masters Student in Computer Science**
